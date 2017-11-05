@@ -7,7 +7,7 @@ Time spent: **11** hours spent in total
 ## Write-up
 I had quite a few issues with installation when attepting to follow the walkthrough given on the assignment page. Instead, I decided to use a honeypot software found online. I utilized Atomic Software Solutions tool Honeybot to moniter scans on an IP address. The image below shows nmap scan before opening any ports:
 
-[Before]https://i.imgur.com/oaA8NhW.jpg
+<a href="https://imgur.com/YTotYj9"><img src="https://i.imgur.com/YTotYj9.jpg" title="source: imgur.com" />Before</a>
 
 And after opening 3 new ports:
 [After]https://i.imgur.com/YTotYj9.jpg
